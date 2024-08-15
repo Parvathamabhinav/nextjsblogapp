@@ -2,7 +2,7 @@
 const AdminPage = () => {
   return (
     <div>
-      abhinav
+      AdminPage
     </div>
   )
 }
